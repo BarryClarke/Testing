@@ -19,6 +19,10 @@ To summarize and present analysis of Fischer's Iris data set. Programming and Sc
 ## 1. Background
 ### Ronald Fisher 
 ![Ronald Fisher](/Images/Ronald.Fisher.jpg)
+* British statistician and geneticist (17th February 1890 - 29th July 1962)
+* Widely considered to be "the single most important figure in 20th century statistics" [Ronald Fisher](http://leansixsigmadefinition.com/glossary/ronald-fisher/)
+* First to propose the Design of Experiments (The Design of Experiments (1935))
+* Credited with initiating methods which led to Six Sigma and Lean Manufacturing [Lean Manufacturing and Six Sigma](http://leansixsigmadefinition.com/glossary/six-sigma/)
 
 ### The Iris dataset
 The Iris dataset contains 3 species of Iris: Iris Setosa, Iris Versicolor, and Iris Virginica. For each specie, 50 samples were gathered and, for each sample, the length and the width of the Sepal and the Petal were measured. Thia datset provided the basis for some very interetsing data analysis. 
