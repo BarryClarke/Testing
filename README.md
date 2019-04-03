@@ -1,4 +1,4 @@
-# The Iris Dataset
+# The Iris Data set
 ![The Iris Family](/Images/iris-machinelearning.png)
 ## Scope
 To summarize and present analysis of Fisher's Iris data set. Programming and Scripting Module project 2019
@@ -6,8 +6,8 @@ To summarize and present analysis of Fisher's Iris data set. Programming and Scr
 ## Table of Contents
 1. Background
     - Ronald Fisher
-    - The Iris dataset
-2. Dataset Summary
+    - Fisher's Iris data set
+2. Data set Summary
     - Averages
     - Max lengths
     - Max widths
@@ -27,8 +27,9 @@ To summarize and present analysis of Fisher's Iris data set. Programming and Scr
 * Responsible for many other statistcal techniques such as [Analysis of Variance](http://leansixsigmadefinition.com/glossary/anova/), [P-value](https://en.wikipedia.org/wiki/P-value), and [Linear discriminant analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
 
 
-### The Iris dataset
-The Iris dataset contains 3 species of Iris: Iris Setosa, Iris Versicolor, and Iris Virginica. For each specie, 50 samples were gathered and, for each sample, the length and the width of the Sepal and the Petal were measured. Thia datset provided the basis for some very interetsing data analysis. 
+### Fisher's Iris dataset
+* Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in his 1936 paper *[The use of multiple measurements in taxonomic problems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x)* as an example of Linear discriminant analysis.
+* The data set contains 3 species of Iris: Iris Setosa, Iris Versicolor, and Iris Virginica. For each specie, 50 samples were gathered and, for each sample, the length and the width of the Sepal and the Petal were measured.  
 
 ## 2. Dataset Summary
 
