@@ -19,7 +19,7 @@ To summarize and present analysis of Fisher's Iris data set. Programming and Scr
 ## 1. Background
 ### Ronald Fisher 
 ![Ronald Fisher](/Images/Ronald.Fisher.jpg)  
-[Ronald Fisher](http://leansixsigmadefinition.com/glossary/ronald-fisher/)  
+[Ronald Fisher](http://leansixsigmadefinition.com/glossary/ronald-fisher/)*[1]*  
 * British statistician and geneticist (17th February 1890 - 29th July 1962)
 * Widely considered to be "the single most important figure in 20th century statistics" *[2]*
 * First to propose the Design of Experiments (The Design of Experiments (1935))
