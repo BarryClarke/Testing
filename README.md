@@ -1,7 +1,7 @@
 # The Iris Dataset
 ![The Iris Family](/Images/iris-machinelearning.png)
 ## Scope
-To summarize and present analysis of Fischer's Iris data set. Programming and Scripting Module project 2019
+To summarize and present analysis of Fisher's Iris data set. Programming and Scripting Module project 2019
 [See here for instructions](https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf)
 ## Table of Contents
 1. Background
@@ -19,7 +19,7 @@ To summarize and present analysis of Fischer's Iris data set. Programming and Sc
 ## 1. Background
 ### Ronald Fisher 
 ![Ronald Fisher](/Images/Ronald.Fisher.jpg)  
-[Ronald Fisher](http://leansixsigmadefinition.com/glossary/ronald-fisher/)
+[Ronald Fisher](http://leansixsigmadefinition.com/glossary/ronald-fisher/)  
 * British statistician and geneticist (17th February 1890 - 29th July 1962)
 * Widely considered to be "the single most important figure in 20th century statistics" 
 * First to propose the Design of Experiments (The Design of Experiments (1935))
