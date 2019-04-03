@@ -38,6 +38,8 @@ The Iris dataset contains 3 species of Iris: Iris Setosa, Iris Versicolor, and I
 
 ## 5. References
 1. http://www.lac.inpe.br/~rafael.santos/Docs/R/CAP394/WholeStory-Iris.html
+2. http://leansixsigmadefinition.com/glossary/ronald-fisher/
+
 
 
 
