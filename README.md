@@ -34,7 +34,7 @@ To summarize and present analysis of Fisher's Iris data set. Programming and Scr
 * Two of the three species (Setosa and Versicolor) were collected in Gaspé Peninsula, all from the same pasture, picked on the same day and measured at the same time by the same person with the same apparatus.*[4]*
 
 ## 2. Data set Summary  
-As explained above, the data set contains 150 records (50 records per Iris specie x 3 species) under 5 attributes. The raw data colected can be seen ![here](/Data/iris.xlsx) in tabuler form. 
+As explained above, the data set contains 150 records (50 records per Iris specie x 3 species) under 5 attributes. The raw data colected can be seen [here](/Data/iris.xlsx) in tabuler form. 
 
 ## 3. Running the Code
 
