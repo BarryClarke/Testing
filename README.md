@@ -1,5 +1,5 @@
 # Fisher's Iris Data set
-![The Iris Family](/Images & data/iris-machinelearning.png)
+![The Iris Family](/Images/iris-machinelearning.png)
 ## Scope
 To summarize and present analysis of Fisher's Iris data set. Programming and Scripting Module project 2019
 [See here for instructions](https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf)
@@ -18,7 +18,7 @@ To summarize and present analysis of Fisher's Iris data set. Programming and Scr
 
 ## 1. Background
 ### Ronald Fisher 
-![Ronald Fisher](/Images & data/Ronald.Fisher.jpg)  
+![Ronald Fisher](/Images/Ronald.Fisher.jpg)  
 [Ronald Fisher](http://leansixsigmadefinition.com/glossary/ronald-fisher/)  
 * British statistician and geneticist (17th February 1890 - 29th July 1962)
 * Widely considered to be "the single most important figure in 20th century statistics" *[2]*
@@ -34,7 +34,7 @@ To summarize and present analysis of Fisher's Iris data set. Programming and Scr
 * Two of the three species (Setosa and Versicolor) were collected in Gaspé Peninsula, all from the same pasture, picked on the same day and measured at the same time by the same person with the same apparatus.*[4]*
 
 ## 2. Data set Summary  
-As explained above, the data set contains 150 records (50 records per Iris specie x 3 species) under 5 attributes. The raw data colected can be seen ![here](/Images & data/iris.xlsx) in tabuler form. 
+As explained above, the data set contains 150 records (50 records per Iris specie x 3 species) under 5 attributes. The raw data colected can be seen ![here](/Data/iris.xlsx) in tabuler form. 
 
 ## 3. Running the Code
 
