@@ -116,7 +116,7 @@ filename  = datetime.datetime.strftime(datetime.datetime.now(), "statistics %d-%
 with open(filename, "w", newline='') as f:
     # Enable CSV writing to the file
     writer = csv.writer(f)
-    writer.writerow(["", "", "Setosa"])
+    writer.writerow(["", "", "Setosa", "", "", ""])
     # Write a header now
     writer.writerow(["Attribute", "Sepal length", "Sepal width", "Petal length", "Petal width", "Specie"])
     writer.writerow(["Minimum", minsetseplen, minsetsepwid, minsetpetlen, minsetpetwid, "Setosa"])
@@ -125,7 +125,7 @@ with open(filename, "w", newline='') as f:
     writer.writerow(["Average", meansetseplen, meansetsepwid, meansetpetlen, meansetpetwid, "Setosa"])
     writer.writerow(["Std Dev", format(stddevsetseplen, '.3f'), format(stddevsetsepwid, '.3f'), format(stddevsetpetlen, '.3f'), format(stddevsetpetwid, '.3f'), "Setosa"])
     writer.writerow([])
-    writer.writerow(["", "", "Versicolor"])
+    writer.writerow(["", "", "Versicolor", "", "", ""])
     writer.writerow(["Attribute", "Sepal length", "Sepal width", "Petal length", "Petal width", "Specie"])
     writer.writerow(["Minimum", minverseplen, minversepwid, minverpetlen, minverpetwid, "Versicolor"])
     writer.writerow(["Maximum", maxverseplen, maxversepwid, maxverpetlen, maxverpetwid, "Versicolor"])
@@ -133,7 +133,7 @@ with open(filename, "w", newline='') as f:
     writer.writerow(["Average", meanverseplen, meanversepwid, meanverpetlen, meanverpetwid, "Versicolor"])
     writer.writerow(["Std Dev", format(stddevverseplen, '.3f'), format(stddevversepwid, '.3f'), format(stddevverpetlen, '.3f'), format(stddevverpetwid, '.3f'), "Versicolor"])
     writer.writerow([])
-    writer.writerow(["", "", "Virginica"])
+    writer.writerow(["", "", "Virginica", "", "", ""])
     writer.writerow(["Attribute", "Sepal length", "Sepal width", "Petal length", "Petal width", "Specie"])
     writer.writerow(["Minimum", minvirseplen, minvirsepwid, minvirpetlen, minvirpetwid, "Virgninica"])
     writer.writerow(["Maximum", maxvirseplen, maxvirsepwid, maxvirpetlen, maxvirpetwid, "Virgninica"])
