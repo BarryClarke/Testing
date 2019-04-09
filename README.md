@@ -36,7 +36,13 @@ To summarize and present analysis of Fisher's Iris data set. Programming and Scr
 * Two of the three species (Setosa and Versicolor) were collected in Gaspé Peninsula, all from the same pasture, picked on the same day and measured at the same time by the same person with the same apparatus.*[4]*
 * This data set and subsequent analysis has proven very valuable in many area's, including machine learning, because of the interesting statistical properties containied within the data set: From the data, the Setosa and Versicolor are difficult to seperate from each other, however the Virginica are easy to seperate from the other two.
 
-## 3. Running the Code
+## 3. Analysing the data set
+### 3.1 Individual analysis of each specie
+As can be ssen in the header picture, each Iris specie has Sepal and a petal. From the measuremants of the lengths and widths of both the Sepal and the Petal, we have calculated a few basic statistics for each specie. Please see the results for the Minimum, maximum, and average lengths and widths of sepal and petal for each specie, along with the scatter (Max - min) and the standard deviation for each attribute in [Statistics 09-04-2019.csv](statistics 09-04-2019.csv) above. To obtain these statistics, please run statistics.py.
+
+### 3.2 Comparison of species for individual attributes
+
+
 
 ## 4. Final Thoughts
 
@@ -46,7 +52,9 @@ To summarize and present analysis of Fisher's Iris data set. Programming and Scr
 *3.* R.A. Fisher (1936). ["The use of multiple measurements in taxonomic problems"](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x). Annals of Eugenics. **7**(2): 179-188  
 *4.* https://en.wikipedia.org/wiki/Iris_flower_data_set  
 *5.* https://www.youtube.com/watch?v=azXCzI57Yfc  
-*6.* https://gist.github.com/curran/a08a1080b88344b0c8a7  
+*6.* https://gist.github.com/curran/a08a1080b88344b0c8a7
+
+Summary.py: https://matplotlib.org/gallery/subplots_axes_and_figures/subplot.html
 
 
 
