@@ -110,7 +110,7 @@ stddevvirpetwid = np.std(virpetwid)     # Standard deviation of the width of a P
 scatvirpetwid = np.max(virpetwid) - np.min(virpetwid) # The scatter of Petal width in the Virginica (ie Max width - Min width)
 
 # Create a csv filenme from the current date and time
-filename  = datetime.datetime.strftime(datetime.datetime.now(), "statistics %d-%m-%Y.CSV")
+filename  = datetime.datetime.strftime(datetime.datetime.now(), "statistics_%d-%m-%Y.csv")
 
 # Open the file with that filename
 with open(filename, "w", newline='') as f:
