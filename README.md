@@ -38,10 +38,13 @@ To summarize and present analysis of Fisher's Iris data set. Programming and Scr
 
 ## 3. Analysing the data set
 ### 3.1 Individual analysis of each specie
-As can be ssen in the header picture, each Iris specie has Sepal and a petal. From the measuremants of the lengths and widths of both the Sepal and the Petal, we have calculated a few basic statistics for each specie. Please see the results for the Minimum, maximum, and average lengths and widths of sepal and petal for each specie, along with the scatter (Max - min) and the standard deviation for each attribute in [statistics_10-04-2019.csv](statistics_10-04-2019.csv) above. To obtain these statistics, please run [statistics.py](statistics.py), which will produce was used to produce and present the statistics in the above csv file.
+As can be seen in the header picture, each Iris specie has a Sepal and a petal. From the measurements of the lengths and widths of both the Sepal and the Petal, we have calculated a few basic statistics for each specie. Please see the results below for the Minimum, maximum, and average lengths and widths of sepal and petal for each specie, along with the scatter (Max - min) and the standard deviation for each attribute.
+![statistics.png](/Images/statistics.png). 
+These stats were calculated and presented in the above table using [statistics.py](statistics.py). By running this program [statistics_10-04-2019.csv](statistics_10-04-2019.csv) is generated
 
 ### 3.2 Comparison of species for individual attributes
-In order to compare and contrast each specie, please see ![Comparison_of_Iris_species_for_individual_attributes.png](/Images/Comparison_of_Iris_species_for_individual_attributes.png) These plots were produced by running [comparison.py](comparison.py) and the resulting plots saved to [Comparison_of_Iris_species_for_individual_attributes.png](/Images/Comparison_of_Iris_species_for_individual_attributes.png). From these plots, we can make a number of observations:
+In order to compare and contrast each specie, please see ![Comparison_of_Iris_species_for_individual_attributes.png](/Images/Comparison_of_Iris_species_for_individual_attributes.png) These plots were produced by running [comparison.py](comparison.py) and the resulting plots saved to [Comparison_of_Iris_species_for_individual_attributes.png](/Images/Comparison_of_Iris_species_for_individual_attributes.png) in the Images folder of the directory. 
+From these plots, we can make a number of observations:
 1. The sepal lengths and sepal widths for all 3 species are pretty similar in dimensions, whereas there appears to be a difference in the petal length and petal widths across the 3 species.
 2. The Setosa petal seems to vary from the Versicolor and Virginica petals. It has a smaller petal. Its is quite easy to differentiate the Setosa from the other two species on the basis of the petal dimensions
 3. It is more diffiscult to differentiate the Versicolor and the Virginica. As the plots show, perhaps the Versicolor petal is slightly smaller, in both length and width, than the Virginica, however there is still some crossover in the data for the Versicolor and Virginica petal. This means that, given a random petal, it would be difficult to decide whether it was a Versicolor or a Virginica.
@@ -58,7 +61,7 @@ The above gives us a good idea of the motivation of Fisher in his 1936 paper rel
 *5.* https://www.youtube.com/watch?v=azXCzI57Yfc  
 *6.* https://gist.github.com/curran/a08a1080b88344b0c8a7
 
-Summary.py: https://matplotlib.org/gallery/subplots_axes_and_figures/subplot.html
+comparison.py: https://matplotlib.org/gallery/subplots_axes_and_figures/subplot.html
 
 
 
