@@ -53,11 +53,12 @@ From these plots, we can make a number of observations:
 Looking at the data set a little deeper to try and find improved methods of differentiating all three species from each other with high probability, we have compared and contrasted the ratios of the length/width dimensions for the Sepal and Petal of all three species. These are shown below ![Comparison_of_dimensional_ratios_for_sepal_and_petal.png](/Images/Comparison_of_dimensional_ratios_for_sepal_and_petal.png) and were calculated and plotted using the [dimensional_ratios.py](dimensional_ratios.py) program. In this program the data was represented in dataframes and Pandas were used to manipulate it, which is a different management of the data from comparison.py above.
 Analysing this data shows us that, once again, Setosa is quite easy to differentiate from Versicolor and Virginica. If we focus on the ratio of sepal length/sepal width ratios below, we can see the average ratio  and standard deviation for both sepal and petal within setosa vary significantly from those of Vesicolor and Virginica, however, differentiating Versicolor from Virginica using these statistics still proves difficult. ![Ratio_statistics.png](/Images/Ratio_statistics.png)
 
-## 4 Fisher's work on the data set
-The above gives us a good idea of the motivation of Fisher in his 1936 paper relating to the iris data set: Given a set of data from different entities, use Linear Discriminant Analysis seperate or differentiate one from another. The ability to apply statistics and mathematics to such a problem was groundbreaking and is why Fisher's paper and this data set is referenced and applied in so many area's to this day
-
+## 4. Fisher's work on the data set
+The above gives us a good idea of the motivation of Fisher in his 1936 paper relating to the iris data set: Given a set of data from different entities, use Linear Discriminant Analysis to seperate or differentiate one from another. The paper used statistical methods "to chose a variate so as to maximise the distinctness of the species"* *[3]*. Using these statistical methods, the Setosa distinctness was attainable using the data set. It was found that the dats set of 4 measurements from 50 samples of each specie was solely sufficient to uniquely distuinguish the Versicolor from the Virginica. Using additional knowledge of the genetic make up of the species, coupled with the results from the LDA work shown in the paper could be combined to the distinctiveness of Versicolor to Virginica
 
 ## 5. Final Thoughts
+The ability to apply statistics and mathematics to distinguish one entity from another was groundbreaking and is why Fisher's paper and this data set is referenced and applied in so many area's to this day. This method has been applied to many area's, not least data analytics.  
+
 
 ## 6. References
 *1.* http://www.lac.inpe.br/~rafael.santos/Docs/R/CAP394/WholeStory-Iris.html  
