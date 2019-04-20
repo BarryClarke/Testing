@@ -12,7 +12,8 @@ To summarize and present analysis of Fisher's Iris data set. Programming and Scr
     - 3.1 Analysis of each individual specie
     - 3.2 Comparison of species for each individual attribute
     - 3.3 Comparison of species for dimensional ratios
-4. Final Thoughts
+4. Fisher's work on the data set
+5. Final Thoughts
 5. References
 
 ## 1. Background
@@ -52,15 +53,13 @@ From these plots, we can make a number of observations:
 Looking at the data set a little deeper to try and find improved methods of differentiating all three species from each other with high probability, we have compared and contrasted the ratios of the length/width dimensions for the Sepal and Petal of all three species. These are shown below ![Comparison_of_dimensional_ratios_for_sepal_and_petal.png](/Images/Comparison_of_dimensional_ratios_for_sepal_and_petal.png) and were calculated and plotted using the [dimensional_ratios.py](dimensional_ratios.py) program. In this program the data was represented in dataframes and Pandas were used to manipulate it, which is a different management of the data from comparison.py above.
 Analysing this data shows us that, once again, Setosa is quite easy to differentiate from Versicolor and Virginica. If we focus on the ratio of sepal length/sepal width ratios below, we can see the average ratio  and standard deviation for both sepal and petal within setosa vary significantly from those of Vesicolor and Virginica, however, differentiating Versicolor from Virginica using these statistics still proves difficult. ![Ratio_statistics.png](/Images/Ratio_statistics.png)
 
+## 4 Fisher's work on the data set
 The above gives us a good idea of the motivation of Fisher in his 1936 paper relating to the iris data set: Given a set of data from different entities, use Linear Discriminant Analysis seperate or differentiate one from another. The ability to apply statistics and mathematics to such a problem was groundbreaking and is why Fisher's paper and this data set is referenced and applied in so many area's to this day
 
-### 3.3 Fisher's work on the data set
 
+## 5. Final Thoughts
 
-
-## 4. Final Thoughts
-
-## 5. References
+## 6. References
 *1.* http://www.lac.inpe.br/~rafael.santos/Docs/R/CAP394/WholeStory-Iris.html  
 *2.* http://leansixsigmadefinition.com/glossary/ronald-fisher/  
 *3.* R.A. Fisher (1936). ["The use of multiple measurements in taxonomic problems"](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x). Annals of Eugenics. **7**(2): 179-188  
