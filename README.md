@@ -68,8 +68,12 @@ The ability to apply statistics and mathematics to distinguish one entity from a
 *5.* https://www.youtube.com/watch?v=azXCzI57Yfc  
 *6.* https://gist.github.com/curran/a08a1080b88344b0c8a7
 
-comparison.py: https://matplotlib.org/gallery/subplots_axes_and_figures/subplot.html
-
+statistics.py:          Ref https://docs.python.org/3/library/csv.html
+comparison.py:          https://matplotlib.org/gallery/subplots_axes_and_figures/subplot.html
+                        https://stackoverflow.com/questions/39164828/global-legend-for-all-subplots
+dimensional_ratios.py:  https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset
+                        https://towarddatascience.com/customizing-plots-with-python-matplotlib-bcf02691931f
+                        
 
 
 
