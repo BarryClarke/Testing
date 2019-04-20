@@ -57,7 +57,7 @@ Analysing this data shows us that, once again, Setosa is quite easy to different
 The above gives us a good idea of the motivation of Fisher in his 1936 paper relating to the iris data set: Given a set of data from different entities, use Linear Discriminant Analysis to seperate or differentiate one from another. The paper used statistical methods "to chose a variate so as to maximise the distinctness of the species"* *[3]*. Using these statistical methods, the Setosa distinctness was attainable using the data set. It was found that the dats set of 4 measurements from 50 samples of each specie was solely sufficient to uniquely distuinguish the Versicolor from the Virginica. Using additional knowledge of the genetic make up of the species, coupled with the results from the LDA work shown in the paper could be combined to the distinctiveness of Versicolor to Virginica
 
 ## 5. Final Thoughts
-The ability to apply statistics and mathematics to distinguish one entity from another was groundbreaking and is why Fisher's paper and this data set is referenced and applied in so many area's to this day. This method has been applied to many area's, not least data analytics.  
+The ability to apply statistics and mathematics to distinguish one entity from another was groundbreaking and is why Fisher's paper and this data set is referenced and applied in so many area's to this day. This method has been applied to many area's, not least data analytics and machine learning.  
 
 
 ## 6. References
